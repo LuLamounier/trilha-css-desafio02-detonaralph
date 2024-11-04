@@ -3,7 +3,7 @@
 Seja bem-vindo ao repositório do JSGame Detona Ralph! Aqui, você encontrará um jogo inspirado no famoso filme "Detona Ralph". Este projeto oferece não apenas uma experiência divertida, mas também uma oportunidade para explorar técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
 <p align="center">
-    <img width="400" src="./src/images/Game.PNG">
+    <img width="600" src="./src/images/Game.PNG">
 </p>
 
 
